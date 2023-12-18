@@ -1,0 +1,36 @@
+.container{
+    width:1000px;
+    margin-top: 30px;
+    display: flex;
+    margin-bottom: 30px;
+    height:20px;
+    justify-content: center;
+    margin: 30px auto;
+}
+.filters{
+    color:white;
+    height:70px;
+    width:100%;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    display: flex;
+    justify-content: right;
+    align-content: flex-end;
+    align-items: right;
+    align-self: right;
+    margin:auto;
+}
+button{
+    display: block;
+    font-size:18px;
+    background-color: #FF5A5F;
+    color:#FFFFFF;
+    height:48px;
+    width: 20%;
+    border: none;
+    border-radius: 4px;
+    margin:auto 20px;
+}
+button:hover{
+    opacity: 90%;
+}
