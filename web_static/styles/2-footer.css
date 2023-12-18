@@ -1,10 +1,9 @@
 
 footer{
-    background-color:  #00FF00;
     height:60px;
     width: 100%;
     text-align: center;
     margin-top: 80vh;
-    color: white;
-    border: top 1px #CCCCCC;
+    background-color: white;
+    border-top: 1px #CCCCCC solid;
 }
